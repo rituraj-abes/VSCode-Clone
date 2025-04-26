@@ -16,7 +16,7 @@ The goal was to practice front-end development skills and pay attention to **pix
 
 ## Screenshots
 
-![VSCode Clone Screenshot](./vs%20code%20clone.png)
+![VSCode Clone Screenshot](https://github.com/rituraj-abes/VSCode-Clone/blob/main/vs%20code%20clone.png?raw=true)
 
 ## How to Use
 
